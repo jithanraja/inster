@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790023307485",
+    "firebase_url": "https://socialwal-1580994701445.firebaseio.com",
+    "project_id": "socialwal-1580994701445",
+    "storage_bucket": "socialwal-1580994701445.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790023307485:android:8f43ce064a9696fc349b34",
+        "android_client_info": {
+          "package_name": "com.socialwelfare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "790023307485-ir9f87ihne6hm9q6e02gicbcpgeuo1tr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.socialwelfare",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "790023307485-4m5afum5g56cutlev563j4ibuokqa38s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdp023PrOGGC-e7BnxjRNeA82uMMHLXLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "790023307485-4m5afum5g56cutlev563j4ibuokqa38s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

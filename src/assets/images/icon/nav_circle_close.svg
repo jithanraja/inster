@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 60.1 (88133) - https://sketch.com -->
+    <title>icon/full/X</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="16" cy="16" r="16"></circle>
+        <filter x="-32.8%" y="-23.4%" width="165.6%" height="165.6%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="3" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="3" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Verification-native-application" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="08---Search-default" transform="translate(-27.000000, -30.000000)">
+            <g id="icon/full/X" transform="translate(33.000000, 33.000000)">
+                <g id="icon/circle/fill">
+                    <g id="Oval">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#000000" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                </g>
+                <g id="icon/shape-primary/X/dark" transform="translate(10.000000, 10.000000)" fill="#00CCFF" stroke="#00CCFF">
+                    <g id="Group-4">
+                        <path d="M0.355022222,11.7100444 C0.264,11.7100444 0.173688889,11.6752 0.104,11.6055111 C-0.0346666667,11.4668444 -0.0346666667,11.2421333 0.104,11.1027556 L11.1056,0.104 C11.2442667,-0.0346666667 11.4689778,-0.0346666667 11.6083556,0.104 C11.7470222,0.243377778 11.7470222,0.468088889 11.6083556,0.606755556 L0.606755556,11.6055111 C0.537066667,11.6752 0.446044444,11.7100444 0.355022222,11.7100444" id="Fill-579"></path>
+                        <path d="M11.3566222,11.7107556 C11.2656,11.7107556 11.1745778,11.6759111 11.1056,11.6062222 L0.104,0.606755556 C-0.0346666667,0.468088889 -0.0346666667,0.243377778 0.104,0.104 C0.242666667,-0.0346666667 0.468088889,-0.0346666667 0.606755556,0.104 L11.6083556,11.1034667 C11.7470222,11.2428444 11.7470222,11.4675556 11.6083556,11.6062222 C11.5386667,11.6759111 11.4476444,11.7107556 11.3566222,11.7107556" id="Fill-580"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
